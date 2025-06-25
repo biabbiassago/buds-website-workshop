@@ -1,0 +1,17 @@
+project:
+  type: website
+website:
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: teaching.qmd
+        text: Teaching
+  search: false
+format:
+  html:
+    theme: yeti
+    css: styles.css
+    toc: true
+
+editor: visual

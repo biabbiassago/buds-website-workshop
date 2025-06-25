@@ -1,8 +1,13 @@
 ---
-title: "My website"
-format: html
+title: "Bianca Brusco"
+image: image/my_image.jpg
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 16em
+editor: source
 ---
 
 ## Hello
 
-Look at my website!
+This is where I can add information.
